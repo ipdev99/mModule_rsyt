@@ -1,0 +1,6 @@
+id=rmYouTube
+name=Remove YouTube
+version=Module
+versionCode=00001
+author=ip
+description=Replace stock YouTube with zero byte files. (Android 11)
